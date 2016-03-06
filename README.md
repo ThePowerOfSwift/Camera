@@ -6,4 +6,4 @@
 
 
 
-![1]()
+![1](https://github.com/firewolf-ljw/Camera/blob/master/1.PNG?raw=true)
